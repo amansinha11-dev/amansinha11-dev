@@ -1,4 +1,4 @@
-# github-profile-README.<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hi%20there%2C%20I'm%20Aman%20Sinha!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=56&descSize=18" />
 
