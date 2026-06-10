@@ -9,7 +9,7 @@
 <!--                        TYPING ANIMATION                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+Engineer+%7C+CodeAlpha+Intern+(Feb-May+2026);%E2%9A%A1+DSA+Enthusiast+%7C+C%2B%2B+%26+Python+%7C+300%2B+Problems;%F0%9F%8E%93+B.Tech+IT+%40+KIIT+%7C+B.Sc+CSDA+%40+IIT+Patna;%F0%9F%92%A1+Building+Fintech+%26+AI+Solutions+for+India" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Data Analytics+Full Stack Devloper(MERN);%E2%9A%A1+DSA+Enthusiast+%7C+C%2B%2B+%26+Python+%7C+300%2B+Problems;%F0%9F%8E%93+B.Tech+IT+%40+KIIT+%7C+B.Sc+CSDA+%40+IIT+Patna;%F0%9F%92%A1+Building+Fintech+%26+AI+Solutions+for+India" alt="Typing Animation" />
 </div>
 
 <br/>
