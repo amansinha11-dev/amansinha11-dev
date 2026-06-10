@@ -27,8 +27,8 @@ class AmanSinha:
         self.username    = "amansinha11-dev"
         self.location    = "Bhubaneswar, India 📍"
         self.education   = [
-            "B.Tech — Information Technology @ KIIT University (3rd Year)",
-            "B.Sc — Data Science & AI (CSDA) @ IIT Patna (2nd Year)"
+            "B.Tech — Information Technology @ KIIT University (4th Year)",
+            "B.Sc — Data Science & AI (CSDA) @ IIT Patna (3rd Year)"
         ]
         self.roles       = ["Full-Stack Developer", "AI/ML Engineer", "Data Analyst"]
         self.languages   = ["C++", "Python", "Java", "JavaScript", "TypeScript"]
@@ -169,11 +169,11 @@ me.say_hi()
 │                                                                 │
 │  🏛  KIIT University, Bhubaneswar                              │
 │      B.Tech — Information Technology                           │
-│      📅 2023 – Present (3rd Year)                              │
+│      📅 2023 – Present (4th Year)                              │
 │                                                                 │
 │  🏛  IIT Patna                                                  │
 │      B.Sc — Data Science & AI (CSDA)                           │
-│      📅 2024 – Present (2nd Year)                              │
+│      📅 2024 – Present (3rd Year)                              │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
