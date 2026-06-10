@@ -1,228 +1,458 @@
+<!-- ═══════════════════════════════════════════════ HEADER ═══ -->
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman%20Sinha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aman%20Sinha&fontAlign=50&fontAlignY=45&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=68&descSize=17&descColor=a78bfa" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=650&lines=Hey+there!+I'm+Aman+Sinha+%F0%9F%91%8B;Full-Stack+%7C+MERN+Stack+Developer+%F0%9F%9A%80;AI%2FML+%26+Data+Analytics+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%7C+C%2B%2B+%26+Python+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+<a href="https://github.com/amansinha11-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=🚀+Building+Production-Ready+MERN+Apps;🤖+AI%2FML+%7C+Computer+Vision+%7C+Deep+Learning;📊+Data+Science+%7C+Analytics+%7C+ML+Models;⚡+DSA+Expert+%7C+C%2B%2B+%7C+Java+%7C+Python;🎓+KIIT-DU+%2B+IIT+Patna+%7C+Dual+Degree+Legend;💡+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG"/>
+</a>
 
-<!-- VISITOR BADGE & PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amansinha11-dev&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/amansinha11-dev?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full--Stack-7c3aed?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Lives-Bhubaneswar%2C%20India-7c3aed?style=flat-square" alt="Location"/>
+<br/>
+
+<!-- LIVE STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/⚡_Status-Actively_Building-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/🎯_Open_To-Collaborations%20%26%20Internships-06b6d4?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/📍_Based_In-Bhubaneswar%2C%20India-f59e0b?style=for-the-badge&labelColor=0f0c29" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amansinha11-dev&label=👁️+Profile+Views&color=a78bfa&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/amansinha11-dev?label=🤝+Followers&color=06b6d4&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/amansinha11-dev?label=⭐+Stars+Earned&color=f59e0b&style=flat-square&affiliations=OWNER" />
+</p>
+
+</div>
+
+<!-- ══════════════════════════════════════════════ ABOUT ME ═══ -->
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## 👨‍💻 &nbsp;Who Am I?
+
+> **Engineering the intersection of code, intelligence, and impact.**
+
+I'm **Aman Sinha** — a 3rd-year **B.Tech (IT)** student at **KIIT University** simultaneously pursuing a **B.Sc in Data Science & AI** from **IIT Patna**. I build things that matter: production-ready full-stack apps, intelligent ML systems, and everything in between.
+
+- 🔭 Currently crafting **AI-powered web applications**
+- 🧠 Mastering the **MERN stack** + **Computer Vision**
+- 🏆 **SIH 2025** — Smart India Hackathon Participant
+- ⚡ Strong **DSA** base (C++, Java, Python) for writing optimal code
+- 🌐 Portfolio → **[amansinhaportfoilo.netlify.app](https://amansinhaportfoilo.netlify.app)**
+- 📬 Reach me → **[sinhaaman479@gmail.com](mailto:sinhaaman479@gmail.com)**
+
+</td>
+<td width="45%" valign="top">
+
+## 🎯 &nbsp;Quick Stats
+
+```yaml
+🎓 Education:
+   ├── B.Tech IT @ KIIT-DU (3rd Year)
+   └── B.Sc CSDA @ IIT Patna (2nd Year)
+
+💼 Expertise:
+   ├── Full-Stack (MERN)
+   ├── Machine Learning / CV
+   └── Data Analytics
+
+🛠️ Currently Building:
+   └── AI-Powered Web Systems
+
+🌍 Location: Bhubaneswar, India
+
+☕ Powered by: Coffee & Code
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ════════════════════════════════════ CURRENTLY WORKING ON ═══ -->
+
+<div align="center">
+
+---
+
+### 🔥 &nbsp;What I'm Shipping Right Now
+
+<table>
+<tr>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/🤖_ML_Project-Face_Recognition_v2-a78bfa?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Advanced CV + Supabase + Web UI</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/🌐_Web_App-MERN_Stack-06b6d4?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Production-ready full-stack system</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/📊_DS_Course-IIT_Patna-f59e0b?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Advanced Data Science & AI</sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<!-- ════════════════════════════════════════ TECH ARSENAL ═══ -->
 
-```python
-class AmanSinha:
-    def __init__(self):
-        self.name        = "Aman Sinha"
-        self.username    = "amansinha11-dev"
-        self.location    = "Bhubaneswar, India 📍"
-        self.education   = [
-            "B.Tech — Information Technology @ KIIT University (4th Year)",
-            "B.Sc — Data Science & AI (CSDA) @ IIT Patna (3rd Year)"
-        ]
-        self.roles       = ["Full-Stack Developer", "AI/ML Engineer", "Data Analyst"]
-        self.languages   = ["C++", "Python", "Java", "JavaScript", "TypeScript"]
-        self.stack       = ["MERN", "React", "Node.js", "Express", "MongoDB"]
-        self.ml_tools    = ["TensorFlow", "OpenCV", "DeepFace", "scikit-learn"]
-        self.currently   = "Building AI-powered web applications 🔭"
-        self.ask_me_about= ["MERN Stack", "ML/CV Projects", "DSA", "System Design"]
-        self.fun_fact    = "I debug with print() and I'm not ashamed 😄"
+## 🛡️ &nbsp;Tech Arsenal
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+<div align="center">
 
-me = AmanSinha()
-me.say_hi()
-```
+### &nbsp;⌨️ Languages I Speak
+
+| Language | Proficiency | Primary Use |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | `●●●●○` Expert | DSA, Competitive Programming |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `●●●●○` Expert | ML, Data Science, Automation |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `●●●●○` Expert | Full-Stack, Web Dev |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `●●●○○` Advanced | React Apps, Type Safety |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `●●●●○` Expert | DSA, OOP, Backend |
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Frontend & UI
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML & Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F79431?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═════════════════════════════════════ FEATURED PROJECTS ═══ -->
+
+## 🚀 &nbsp;Flagship Projects
+
+<div align="center">
+
+<!-- PROJECT 1 -->
+<a href="https://github.com/amansinha11-dev/Face-Recognization-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=Face-Recognization-System&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+&nbsp;
+<!-- PROJECT 2 -->
+<a href="https://github.com/amansinha11-dev/aman-sinha-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=aman-sinha-portfolio&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+
+<br/><br/>
+
+<!-- PROJECT 3 -->
+<a href="https://github.com/amansinha11-dev/safe-campus-ignite-main-1-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=safe-campus-ignite-main-1-&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+&nbsp;
+<!-- PROJECT 4 -->
+<a href="https://github.com/amansinha11-dev/SIH2025">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=SIH2025&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+
+</div>
+
+<br/>
+
+### 🔬 Deep-Dive: Project Highlights
 
 <details>
-<summary>📖 <b>More About Me</b></summary>
-<br>
+<summary>🤖 &nbsp;<b>Face Recognition Attendance System</b> — <i>Click to Expand</i></summary>
+<br/>
 
-- 🎓 Pursuing **dual degrees** — B.Tech IT at KIIT-DU & B.Sc CSDA at IIT Patna simultaneously
-- 🔭 Currently building production-grade **MERN stack applications** and **ML systems**
-- 🤖 Created a **Face Recognition Attendance System** with dual-engine recognition (LBPH + FaceNet)
-- 🏆 Participated in **Smart India Hackathon 2025 (SIH2025)**
-- 💡 Strong foundation in **Data Structures & Algorithms** (C++, Java, Python)
-- 🌐 Portfolio live at **[amansinhaportfoilo.netlify.app](https://amansinhaportfoilo.netlify.app/)**
-- 📫 Reach me at **[sinhaaman479@gmail.com](mailto:sinhaaman479@gmail.com)**
-- ⚡ Fun fact: I'm simultaneously studying at **two of India's top universities**!
+> 🏷️ `Python` `OpenCV` `DeepFace` `FaceNet` `LBPH` `TensorFlow` `Supabase` `Flask` `Vercel`
+
+A production-grade, intelligent attendance management platform powered by **dual-engine facial recognition**:
+
+| Feature | Details |
+|---|---|
+| 🧠 Recognition Engine | LBPH + FaceNet (deep learning) dual system |
+| 🎯 Accuracy | 77%+ confidence threshold with cosine similarity |
+| 📸 Dataset | Auto-captures 20+ face samples per student |
+| 🔍 Detection | Real-time Haar Cascade face detection |
+| 💾 Database | CSV + Supabase cloud integration |
+| 🖥️ Interface | Animated Tkinter GUI + Web interface |
+| 🌐 Deployment | Vercel-hosted web component |
+
+**Live Demo:** [face-recognization-system.vercel.app](https://face-recognization-system.vercel.app)
+
+</details>
+
+<details>
+<summary>🌐 &nbsp;<b>3D Animated Portfolio Website</b> — <i>Click to Expand</i></summary>
+<br/>
+
+> 🏷️ `React` `JavaScript` `GSAP` `Spline` `Tailwind CSS` `Netlify`
+
+A modern developer portfolio that turns heads with:
+
+| Feature | Details |
+|---|---|
+| 🎬 Animations | GSAP-powered smooth scroll & entrance effects |
+| 🎮 3D Scenes | Interactive Spline-based 3D visuals |
+| 📱 Responsive | Mobile-first design across all devices |
+| ⚡ Performance | Vite-powered ultra-fast build |
+
+**Live Site:** [amansinhaportfoilo.netlify.app](https://amansinhaportfoilo.netlify.app)
+
+</details>
+
+<details>
+<summary>🏫 &nbsp;<b>Safe Campus Platform</b> — <i>Click to Expand</i></summary>
+<br/>
+
+> 🏷️ `TypeScript` `React` `Vite` `shadcn/ui` `Tailwind CSS`
+
+A campus safety & management platform built for **Smart India Hackathon 2025**, featuring a modern React architecture with full TypeScript type safety, shadcn/ui components, and a clean responsive interface.
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- ══════════════════════════════════════ GITHUB ANALYTICS ═══ -->
 
-### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
-### 🤖 AI / ML & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F79431?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="DeepFace"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:-----------|:--------------|:--------------|:---------|
-| 🤖 **Face Recognition Attendance System** | ML-powered attendance system using LBPH + FaceNet dual-engine recognition with real-time face detection, Supabase DB, and web interface | `Python` `OpenCV` `DeepFace` `TensorFlow` `Tkinter` `Supabase` `Flask` | [Code](https://github.com/amansinha11-dev/Face-Recognization-System) · [Live](https://face-recognization-system.vercel.app) |
-| 🌐 **Portfolio Website** | Modern animated developer portfolio with 3D interactive scenes, smooth GSAP animations, and responsive design | `React` `GSAP` `Spline` `Tailwind CSS` `JavaScript` | [Code](https://github.com/amansinha11-dev/aman-sinha-portfolio) · [Live](https://amansinhaportfoilo.netlify.app) |
-| 🏫 **Safe Campus** | Campus safety platform built with modern React architecture, TypeScript, and UI component library | `TypeScript` `React` `Vite` `shadcn-ui` `Tailwind CSS` | [Code](https://github.com/amansinha11-dev/safe-campus-ignite-main-1-) |
-| 🇮🇳 **SIH 2025** | Smart India Hackathon 2025 submission — national-level government tech innovation challenge | `Full-Stack` `AI/ML` | [Code](https://github.com/amansinha11-dev/SIH2025) |
-| 📊 **DSA in Java** | Comprehensive Data Structures & Algorithms implementations covering arrays, trees, graphs, DP, and more | `Java` `DSA` `Algorithms` | [Code](https://github.com/amansinha11-dev/DSA-programing-java) |
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&bg_color=1a1b27&custom_title=Aman's%20GitHub%20Stats" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=1a1b27" />
+
+</div>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha11-dev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=c9d1d9&background=1a1b27" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 &nbsp;Achievement Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=amansinha11-dev&theme=tokyonight&no-frame=true&column=7&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ════════════════════════════════════════ CONTRIBUTIONS ═══ -->
+
+## 🌊 &nbsp;Contribution Galaxy
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Aman's%20GitHub%20Stats" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=302b63&hide_border=true&custom_title=Aman's%20Contribution%20Timeline&radius=6" width="96%"/>
 </div>
 
+---
+
+<!-- ══════════════════════════════════════════ ACHIEVEMENTS ═══ -->
+
+## 🏅 &nbsp;Achievements & Milestones
+
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha11-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=amansinha11-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
+| 🥇 Achievement | 📋 Details | 📅 Year |
+|:---:|:---:|:---:|
+| 🏆 **SIH 2025 Participant** | Smart India Hackathon — National Level Innovation Challenge | 2025 |
+| 🎓 **Dual Degree Pioneer** | Simultaneously pursuing B.Tech at KIIT + B.Sc at IIT Patna | 2023–Present |
+| 🤖 **ML System Builder** | Deployed Face Recognition System with 77%+ accuracy | 2025 |
+| 🌐 **Full-Stack Developer** | Built & deployed production MERN applications | 2024–Present |
+| 📊 **DSA Specialist** | 100+ problems solved across C++, Java, Python | 2023–Present |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ═══════════════════════════════════ CURRENTLY LEARNING ═══ -->
+
+## 📚 &nbsp;Currently Learning & Exploring
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&bg_color=1a1b27&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=Aman's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-## 🎓 Education Timeline
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🏛  KIIT University, Bhubaneswar                              │
-│      B.Tech — Information Technology                           │
-│      📅 2023 – Present (4th Year)                              │
-│                                                                 │
-│  🏛  IIT Patna                                                  │
-│      B.Sc — Data Science & AI (CSDA)                           │
-│      📅 2024 – Present (3rd Year)                              │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                  🧭  LEARNING ROADMAP 2025                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ▶  Advanced ML Architectures   ████████░░  80%             ║
+║  ▶  MERN Stack (Production)     ███████░░░  70%             ║
+║  ▶  System Design               █████░░░░░  50%             ║
+║  ▶  Cloud Deployment (AWS/GCP)  ████░░░░░░  40%             ║
+║  ▶  Docker & DevOps             ███░░░░░░░  30%             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-amansinhaportfoilo.netlify.app-7c3aed?style=for-the-badge)](https://amansinhaportfoilo.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sinha-2412res/)
-[![GitHub](https://img.shields.io/badge/GitHub-amansinha11--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amansinha11-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-sinhaaman479%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhaaman479@gmail.com)
-
 </div>
 
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/🔥_Next-Advanced_LLM_Integration-a78bfa?style=flat-square"/>
+<img src="https://img.shields.io/badge/📖_Studying-System_Design_Patterns-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/⚙️_Exploring-Docker_%26_Kubernetes-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏗️_Building-REST_APIs_at_Scale-10b981?style=flat-square"/>
+</p>
 
 ---
 
+<!-- ════════════════════════════════════════ SNAKE ANIMATION ═══ -->
+
+## 🐍 &nbsp;My Contributions, Visualized
+
 <div align="center">
-
-### 🐍 Watch My Contributions Get Eaten!
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
+  <img alt="Snake animation of contribution graph"
+    src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
 </picture>
+</div>
+
+<details>
+<summary>⚙️ <b>Activate Snake Animation — Setup Instructions</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════ CONNECT ═══ -->
+
+## 🤝 &nbsp;Let's Build Together
+
+<div align="center">
+
+<a href="https://amansinhaportfoilo.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-a78bfa?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aman-sinha-2412res/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<a href="mailto:sinhaaman479@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<a href="https://github.com/amansinha11-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💌_Response_Time-Within_24_Hours-10b981?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🤝_Available_For-Freelance%20%7C%20Internship%20%7C%20Collabs-f59e0b?style=for-the-badge&labelColor=1a1b27"/>
 
 </div>
 
 ---
 
+<!-- ══════════════════════════════════════════════ FOOTER ═══ -->
+
 <div align="center">
 
-**💜 Thanks for visiting my profile! If you like my work, give it a ⭐**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%"/>
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<sub>
+  ⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <br/>
+  Made with 💜 by <a href="https://github.com/amansinha11-dev"><b>Aman Sinha</b></a> | KIIT-DU × IIT Patna | 2025
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
