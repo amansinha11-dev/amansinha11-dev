@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/amansinha11-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=🚀+Building+Production-Ready+MERN+Apps;🤖+AI%2FML+%7C+Computer+Vision+%7C+Deep+Learning;📊+Data+Science+%7C+Analytics+%7C+ML+Models;⚡+DSA+Expert+%7C+C%2B%2B+%7C+Java+%7C+Python;🎓+KIIT-DU+%2B+IIT+Patna+%7C+Dual+Degree+Legend;💡+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+%7C+Computer+Vision+%7C+Deep+Learning;%F0%9F%93%8A+Data+Science+%7C+Analytics+%7C+ML+Models;%E2%9A%A1+DSA+Expert+%7C+C%2B%2B+%7C+Java+%7C+Python;%F0%9F%8E%93+KIIT-DU+%2B+IIT+Patna+%7C+Dual+Degree+Legend;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
