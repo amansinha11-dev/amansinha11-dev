@@ -3,6 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aman%20Sinha&fontAlign=50&fontAlignY=45&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=68&descSize=17&descColor=a78bfa" width="100%"/>
 
+<!-- ═══════════════════════════════════════════════ HEADER ═══ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aman%20Sinha&fontAlign=50&fontAlignY=45&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=68&descSize=17&descColor=a78bfa" width="100%"/>
+<div>
 <!-- TYPING SVG -->
 <a href="https://github.com/amansinha11-dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+%7C+Computer+Vision+%7C+Deep+Learning;%F0%9F%93%8A+Data+Science+%7C+Analytics+%7C+ML+Models;%E2%9A%A1+DSA+Expert+%7C+C%2B%2B+%7C+Java+%7C+Python;%F0%9F%8E%93+KIIT-DU+%2B+IIT+Patna+%7C+Dual+Degree+Legend;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG"/>
