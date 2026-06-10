@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════ HEADER ═══ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aman%20Sinha&fontAlign=50&fontAlignY=45&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=68&descSize=17&descColor=a78bfa" width="100%"/>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Hi%20there%2C%20I'm%20Aman%20Sinha!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=56&descSize=18" />
