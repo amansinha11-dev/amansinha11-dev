@@ -49,8 +49,8 @@
 
 ### 🚀 Quick Facts
 
-- 🎓 **B.Tech in Information Technology** — KIIT University *(6th Semester)*
-- 📊 **B.Sc in Data Science & AI (CSDA)** — IIT Patna *(2nd Year, pursuing)*
+- 🎓 **B.Tech in Information Technology** — KIIT University *(4th year)*
+- 📊 **B.Sc in Data Science & AI (CSDA)** — IIT Patna *(3rd Year, pursuing)*
 - 💼 **ML Intern @ CodeAlpha** *(Feb – May 2026)*
   - Speech emotion recognition via **MFCC + CNN / RNN / LSTM**
 - 🏆 **Smart India Hackathon 2025** — Participant
