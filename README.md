@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                                -->
+<!--                        ANIMATED HEADER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1c1c3e,70:0e2439,100:0d1117&height=250&section=header&text=Aman%20Sinha&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=63&descSize=18&descColor=8b949e" />
