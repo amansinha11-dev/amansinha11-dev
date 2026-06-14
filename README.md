@@ -245,10 +245,17 @@ me.say_hi()
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--   📈 CONTRIBUTION ACTIVITY GRAPH — FIXED                              -->
+<!--   FIX 1: Removed conflicting `theme=tokyo-night` parameter            -->
+<!--   FIX 2: Added explicit `color` for labels + corrected area_color     -->
+<!--   FIX 3: Added `days=90` to ensure recent contributions always show   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=7ee8fa&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&bg_color=0d1117&color=58a6ff&line=7ee8fa&point=ffffff&area=true&area_color=1c3a5e&hide_border=true&custom_title=Aman%27s%20Contribution%20Activity%20Graph&days=90" />
 </div>
 
 ---
@@ -269,7 +276,7 @@ me.say_hi()
     <img alt="Contribution Snake Animation"
       src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                       CURRENT FOCUS                                   -->
