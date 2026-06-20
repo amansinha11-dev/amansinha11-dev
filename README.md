@@ -98,3 +98,44 @@ class AmanSinha:
 
 me = AmanSinha()
 me.say_hi()
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--   📊 GITHUB ANALYTICS — generated as static images via GitHub Actions    -->
+<!--   (no rate limits, always shows your real contributions)                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- Full metrics card (header + activity + languages + habits) -->
+  <img src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/main/github-metrics.svg" alt="Aman's GitHub Metrics" />
+
+</div>
+
+<br/>
+
+<!-- Optional: keep the live cards as a fallback / second view -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee8fa&text_color=8b949e" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&theme=tokyo-night&hide_border=true&area=true&days=365" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div> 
