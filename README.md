@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED HEADER                                  -->
+<!--                         ANIMATED HEADER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1c1c3e,70:0e2439,100:0d1117&height=250&section=header&text=Aman%20Sinha&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=63&descSize=18&descColor=8b949e" />
@@ -226,13 +226,13 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee8fa&text_color=8b949e" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee8fa&text_color=8b949e&cache_seconds=1800" alt="Aman's GitHub Stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" alt="Aman's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amansinha11-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee8fa&fire=ff7b54&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=amansinha11-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee8fa&fire=ff7b54&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_seconds=1800" alt="Aman's GitHub Streak" />
 </div>
 
 ---
@@ -248,7 +248,7 @@ me.say_hi()
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=7ee8fa&point=ffffff&bg_color=0d1117&days=365&custom_title=Aman's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=7ee8fa&point=ffffff&bg_color=0d1117&days=365&custom_title=Aman's%20Contribution%20Graph" alt="Aman's Contribution Activity Graph" />
 </div>
 
 ---
