@@ -1,217 +1,177 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         ANIMATED HEADER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════ HEADER ═══ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1c1c3e,70:0e2439,100:0d1117&height=250&section=header&text=Aman%20Sinha&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=63&descSize=18&descColor=8b949e" />
-</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        TYPING ANIMATION                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+Engineer+%7C+Data+Analytics+%7C+Full+Stack+Developer;%E2%9A%A1+DSA+Enthusiast+%7C+C%2B%2B+%26+Python+%7C+300%2B+Problems;%F0%9F%8E%93+B.Tech+IT+%40+KIIT+%7C+B.Sc+CSDA+%40+IIT+Patna;%F0%9F%92%A1+Building+Fintech+%26+AI+Solutions+for+India" alt="Typing Animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aman%20Sinha&fontAlign=50&fontAlignY=45&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=⚡%20Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analyst%20⚡&descAlignY=68&descSize=17&descColor=a78bfa" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://github.com/amansinha11-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Production-Ready+MERN+Apps;%F0%9F%A4%96+AI%2FML+%7C+Computer+Vision+%7C+Deep+Learning;%F0%9F%93%8A+Data+Science+%7C+Analytics+%7C+ML+Models;%E2%9A%A1+DSA+Expert+%7C+C%2B%2B+%7C+Java+%7C+Python;%F0%9F%8E%93+KIIT-DU+%2B+IIT+Patna+%7C+Dual+Degree+Legend;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Solutions" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        SOCIAL BADGES                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/aman-sinha-2412res/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:sinhaaman479@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://amansinhaportfoilo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/amansinha11-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=amansinha11-dev&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<!-- LIVE STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/⚡_Status-Actively_Building-a78bfa?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/🎯_Open_To-Collaborations%20%26%20Internships-06b6d4?style=for-the-badge&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/📍_Based_In-Bhubaneswar%2C%20India-f59e0b?style=for-the-badge&labelColor=0f0c29" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amansinha11-dev&label=👁️+Profile+Views&color=a78bfa&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/amansinha11-dev?label=🤝+Followers&color=06b6d4&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/amansinha11-dev?label=⭐+Stars+Earned&color=f59e0b&style=flat-square&affiliations=OWNER" />
+</p>
+
 </div>
 
+<!-- ══════════════════════════════════════════════ ABOUT ME ═══ -->
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 👋 Hello, World! — I'm Aman Sinha
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="58%">
+<td width="55%" valign="top">
 
-### 🚀 Quick Facts
+## 👨‍💻 &nbsp;Who Am I?
 
-- 🎓 **B.Tech in Information Technology** — KIIT University *(4th year)*
-- 📊 **B.Sc in Data Science & AI (CSDA)** — IIT Patna *(3rd Year, pursuing)*
-- 💼 **ML Intern @ CodeAlpha** *(Feb – May 2026)*
-  - Speech emotion recognition via **MFCC + CNN / RNN / LSTM**
-- 🏆 **Smart India Hackathon 2025** — Participant
-- 💡 **Team Lead** — *Wise Wealth Coach* (Unified Fintech Platform for India)
-- 🥷 **HackWithInfy** — Qualifier (Competitive Programming)
-- 🧠 Mastering **DSA** via Striver's A2Z Sheet (C++ + Python)
-- 🎯 Targeting **FAANG / MAANG + Product-Based** placements
-- 📍 Dhanbad, Jharkhand → Bhubaneswar, Odisha
-- 📫 **sinhaaman479@gmail.com**
+> **Engineering the intersection of code, intelligence, and impact.**
+
+I'm **Aman Sinha** — a 3rd-year **B.Tech (IT)** student at **KIIT University** simultaneously pursuing a **B.Sc in Data Science & AI** from **IIT Patna**. I build things that matter: production-ready full-stack apps, intelligent ML systems, and everything in between.
+
+- 🔭 Currently crafting **AI-powered web applications**
+- 🧠 Mastering the **MERN stack** + **Computer Vision**
+- 🏆 **SIH 2025** — Smart India Hackathon Participant
+- ⚡ Strong **DSA** base (C++, Java, Python) for writing optimal code
+- 🌐 Portfolio → **[amansinhaportfoilo.netlify.app](https://amansinhaportfoilo.netlify.app)**
+- 📬 Reach me → **[sinhaaman479@gmail.com](mailto:sinhaaman479@gmail.com)**
 
 </td>
-<td valign="top" align="center" width="42%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-  <br/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-brightgreen?style=flat-square" />
-  <br/>
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=flat-square" />
-</td>
-</tr>
-</table>
+<td width="45%" valign="top">
 
----
+## 🎯 &nbsp;Quick Stats
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME AS CODE                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+```yaml
+🎓 Education:
+   ├── B.Tech IT @ KIIT-DU (3rd Year)
+   └── B.Sc CSDA @ IIT Patna (2nd Year)
 
-## 🧠 About Me — In Code
+💼 Expertise:
+   ├── Full-Stack (MERN)
+   ├── Machine Learning / CV
+   └── Data Analytics
 
-```python
-class AmanSinha:
-    def __init__(self):
-        self.name        = "Aman Sinha"
-        self.username    = "amansinha11-dev"
-        self.roles       = ["Full-Stack Developer", "AI/ML Engineer", "Competitive Programmer"]
-        self.education   = {
-            "B.Tech IT"  : "KIIT University, Bhubaneswar  |  6th Semester",
-            "B.Sc CSDA"  : "IIT Patna  |  Data Science & AI  |  2nd Year",
-        }
-        self.experience  = "ML Intern @ CodeAlpha  (Feb – May 2026)"
-        self.stack       = {
-            "frontend"   : ["React", "Tailwind CSS", "GSAP", "Framer Motion", "Spline"],
-            "backend"    : ["Node.js", "Express.js", "REST APIs"],
-            "database"   : ["MongoDB", "Supabase"],
-            "ai_ml"      : ["TensorFlow", "Keras", "OpenCV", "DeepFace", "scikit-learn"],
-            "languages"  : ["C++", "Python", "JavaScript", "TypeScript", "Java"],
-        }
-        self.currently   = ["Advanced DSA", "System Design", "LLM Integration", "Deep Learning"]
-        self.fun_fact    = "I trained a face recognition model BEFORE finishing my 5th semester 🤯"
+🛠️ Currently Building:
+   └── AI-Powered Web Systems
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+🌍 Location: Bhubaneswar, India
 
-me = AmanSinha()
-me.say_hi()
+☕ Powered by: Coffee & Code
 ```
 
----
+</td>
+</tr>
+</table>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack & Skills
+<!-- ════════════════════════════════════ CURRENTLY WORKING ON ═══ -->
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🤖 AI / ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
-|:-----------|:--------------|:-------------|:---------|
-| **🤖 Face Recognition Attendance System** | ML-powered smart attendance with dual recognition engines — LBPH & FaceNet. Real-time detection, automated marking, Supabase cloud DB, and modern Tkinter GUI. 30+ Python modules. | Python · OpenCV · DeepFace · FaceNet · Supabase · TensorFlow | [📁 Repo](https://github.com/amansinha11-dev/Face-Recognization-System) · [🌐 Live](https://face-recognization-system.vercel.app) |
-| **🌐 3D Portfolio Website** | Visually stunning developer portfolio with 3D Spline scenes, GSAP scroll animations, Framer Motion transitions, and full responsive design. Deployed on Netlify & GitHub Pages. | React · Vite · GSAP · Framer Motion · Spline · Tailwind CSS | [📁 Repo](https://github.com/amansinha11-dev/aman-sinha-portfolio) · [🌐 Live](https://amansinhaportfoilo.netlify.app/) |
-| **🏛️ Safe Campus** | Campus safety & real-time incident reporting platform. TypeScript-first architecture with alert management, modern UI, and efficient state management. | TypeScript · React · Node.js | [📁 Repo](https://github.com/amansinha11-dev/safe-campus-ignite-main-1-) |
-| **💰 Wise Wealth Coach** | Unified personal finance platform for India (Team Lead). Modules: Money Health Score, Tax Wizard, FIRE Planner & MF Portfolio X-Ray. Built for SIH-style hackathon. | MERN Stack · AI/ML · Fintech APIs | 🏆 Hackathon Project |
-| **🇮🇳 SIH 2025** | Smart India Hackathon 2025 submission addressing real-world national challenges with full-stack innovative solutions. | Full Stack | [📁 Repo](https://github.com/amansinha11-dev/SIH2025) |
-| **🧩 DSA Mastery — Java** | Comprehensive DSA implementations in Java covering arrays, trees, graphs, DP, and more. A placement-prep reference archive. | Java | [📁 Repo](https://github.com/amansinha11-dev/DSA-programing-java) |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE & ACHIEVEMENTS                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience & Achievements
+### 🔥 &nbsp;What I'm Shipping Right Now
 
 <table>
 <tr>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/🤖_ML_Project-Face_Recognition_v2-a78bfa?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Advanced CV + Supabase + Web UI</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/🌐_Web_App-MERN_Stack-06b6d4?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Production-ready full-stack system</sub>
+  </td>
+  <td align="center" width="33%">
+    <img src="https://img.shields.io/badge/📊_DS_Course-IIT_Patna-f59e0b?style=for-the-badge&labelColor=1a1b27"/><br/>
+    <sub>Advanced Data Science & AI</sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════ TECH ARSENAL ═══ -->
+
+## 🛡️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+### &nbsp;⌨️ Languages I Speak
+
+| Language | Proficiency | Primary Use |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | `●●●●○` Expert | DSA, Competitive Programming |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `●●●●○` Expert | ML, Data Science, Automation |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `●●●●○` Expert | Full-Stack, Web Dev |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `●●●○○` Advanced | React Apps, Type Safety |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `●●●●○` Expert | DSA, OOP, Backend |
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
-### 🏢 Machine Learning Intern — CodeAlpha
-> **Feb 2026 – May 2026**
+### 🌐 Frontend & UI
 
-- 🔬 Built **Speech Emotion Recognition** system from scratch
-- 🎧 Used **MFCC** for audio feature extraction from speech signals
-- 🧠 Implemented & compared **CNN, RNN & LSTM** architectures
-- 📊 Worked with real-world labeled audio datasets
-- ✅ Achieved production-level model accuracy & deployment
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Hackathons & Competitions
+### 🤖 AI / ML & Computer Vision
 
-- 🥇 **SIH 2025** — Smart India Hackathon Participant
-- 💡 **Wise Wealth Coach** — Team Lead @ Hackathon
-- 🏅 **HackWithInfy** — Qualifier Round (Python 3)
-- 📚 **300+ DSA Problems** — LeetCode · GFG · Codeforces
-- 🎯 Striver's A2Z DSA Sheet — actively solving
-- 🚀 **2 Deployed Projects** — Vercel + Netlify
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepFace-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F79431?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -219,123 +179,280 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════ FEATURED PROJECTS ═══ -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee8fa&text_color=8b949e&cache_seconds=1800" alt="Aman's GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" alt="Aman's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amansinha11-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee8fa&fire=ff7b54&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_seconds=1800" alt="Aman's GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amansinha11-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=7ee8fa&point=ffffff&bg_color=0d1117&days=365&custom_title=Aman's%20Contribution%20Graph" alt="Aman's Contribution Activity Graph" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--               GITHUB CONTRIBUTION SNAKE                               -->
-<!--   NOTE: Enable this by creating .github/workflows/snake.yml           -->
-<!--   in your amansinha11-dev/amansinha11-dev repo                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT FOCUS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🎯 Currently Working On
+## 🚀 &nbsp;Flagship Projects
 
 <div align="center">
 
-| Area | What I'm Doing |
-|:----:|:---------------|
-| 🧩 **DSA** | Striver A2Z Sheet — Graph, DP, Trees in C++ |
-| 🧠 **Deep Learning** | CNN architectures, Transfer Learning, LLM fine-tuning |
-| 🌐 **Full-Stack** | Production MERN apps with Auth, Payments, Real-time |
-| 🤖 **AI Integration** | LangChain, OpenAI APIs, Vector Databases |
-| 📐 **System Design** | HLD/LLD concepts for placement interviews |
-| 🇮🇳 **Fintech** | Expanding Wise Wealth Coach platform features |
+<!-- PROJECT 1 -->
+<a href="https://github.com/amansinha11-dev/Face-Recognization-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=Face-Recognization-System&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+&nbsp;
+<!-- PROJECT 2 -->
+<a href="https://github.com/amansinha11-dev/aman-sinha-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=aman-sinha-portfolio&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
 
-</div>
+<br/><br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-
-*I'm always open to interesting projects, hackathons, collaborations, and opportunities!*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aman-sinha-2412res/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:sinhaaman479@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://amansinhaportfoilo.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<!-- PROJECT 3 -->
+<a href="https://github.com/amansinha11-dev/safe-campus-ignite-main-1-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=safe-campus-ignite-main-1-&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
+</a>
+&nbsp;
+<!-- PROJECT 4 -->
+<a href="https://github.com/amansinha11-dev/SIH2025">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amansinha11-dev&repo=SIH2025&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=06b6d4&text_color=ffffff&bg_color=1a1b27" />
 </a>
 
 </div>
 
 <br/>
 
+### 🔬 Deep-Dive: Project Highlights
+
+<details>
+<summary>🤖 &nbsp;<b>Face Recognition Attendance System</b> — <i>Click to Expand</i></summary>
+<br/>
+
+> 🏷️ `Python` `OpenCV` `DeepFace` `FaceNet` `LBPH` `TensorFlow` `Supabase` `Flask` `Vercel`
+
+A production-grade, intelligent attendance management platform powered by **dual-engine facial recognition**:
+
+| Feature | Details |
+|---|---|
+| 🧠 Recognition Engine | LBPH + FaceNet (deep learning) dual system |
+| 🎯 Accuracy | 77%+ confidence threshold with cosine similarity |
+| 📸 Dataset | Auto-captures 20+ face samples per student |
+| 🔍 Detection | Real-time Haar Cascade face detection |
+| 💾 Database | CSV + Supabase cloud integration |
+| 🖥️ Interface | Animated Tkinter GUI + Web interface |
+| 🌐 Deployment | Vercel-hosted web component |
+
+**Live Demo:** [face-recognization-system.vercel.app](https://face-recognization-system.vercel.app)
+
+</details>
+
+<details>
+<summary>🌐 &nbsp;<b>3D Animated Portfolio Website</b> — <i>Click to Expand</i></summary>
+<br/>
+
+> 🏷️ `React` `JavaScript` `GSAP` `Spline` `Tailwind CSS` `Netlify`
+
+A modern developer portfolio that turns heads with:
+
+| Feature | Details |
+|---|---|
+| 🎬 Animations | GSAP-powered smooth scroll & entrance effects |
+| 🎮 3D Scenes | Interactive Spline-based 3D visuals |
+| 📱 Responsive | Mobile-first design across all devices |
+| ⚡ Performance | Vite-powered ultra-fast build |
+
+**Live Site:** [amansinhaportfoilo.netlify.app](https://amansinhaportfoilo.netlify.app)
+
+</details>
+
+<details>
+<summary>🏫 &nbsp;<b>Safe Campus Platform</b> — <i>Click to Expand</i></summary>
+<br/>
+
+> 🏷️ `TypeScript` `React` `Vite` `shadcn/ui` `Tailwind CSS`
+
+A campus safety & management platform built for **Smart India Hackathon 2025**, featuring a modern React architecture with full TypeScript type safety, shadcn/ui components, and a clean responsive interface.
+
+</details>
+
+---
+
+<!-- ══════════════════════════════════════ GITHUB ANALYTICS ═══ -->
+
+## 📊 &nbsp;GitHub Analytics
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=amansinha11-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&bg_color=1a1b27&custom_title=Aman's%20GitHub%20Stats" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansinha11-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a78bfa&text_color=c9d1d9&bg_color=1a1b27" />
+
+</div>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha11-dev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=c9d1d9&background=1a1b27" />
 </div>
 
 <br/>
 
----
-
 <div align="center">
-  <i>⭐ If you find my projects helpful, consider starring them — it genuinely motivates me!</i>
-  <br/>
-  <i>🤝 Open to collabs on MERN, AI/ML, and Fintech projects.</i>
+
+### 🏆 &nbsp;Achievement Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=amansinha11-dev&theme=tokyonight&no-frame=true&column=7&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" />
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER WAVE                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
+
+<!-- ════════════════════════════════════════ CONTRIBUTIONS ═══ -->
+
+## 🌊 &nbsp;Contribution Galaxy
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1c1c3e,70:0e2439,100:0d1117&height=130&section=footer" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansinha11-dev&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=302b63&hide_border=true&custom_title=Aman's%20Contribution%20Timeline&radius=6" width="96%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════ ACHIEVEMENTS ═══ -->
+
+## 🏅 &nbsp;Achievements & Milestones
+
+<div align="center">
+
+| 🥇 Achievement | 📋 Details | 📅 Year |
+|:---:|:---:|:---:|
+| 🏆 **SIH 2025 Participant** | Smart India Hackathon — National Level Innovation Challenge | 2025 |
+| 🎓 **Dual Degree Pioneer** | Simultaneously pursuing B.Tech at KIIT + B.Sc at IIT Patna | 2023–Present |
+| 🤖 **ML System Builder** | Deployed Face Recognition System with 77%+ accuracy | 2025 |
+| 🌐 **Full-Stack Developer** | Built & deployed production MERN applications | 2024–Present |
+| 📊 **DSA Specialist** | 100+ problems solved across C++, Java, Python | 2023–Present |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════ CURRENTLY LEARNING ═══ -->
+
+## 📚 &nbsp;Currently Learning & Exploring
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  🧭  LEARNING ROADMAP 2025                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ▶  Advanced ML Architectures   ████████░░  80%             ║
+║  ▶  MERN Stack (Production)     ███████░░░  70%             ║
+║  ▶  System Design               █████░░░░░  50%             ║
+║  ▶  Cloud Deployment (AWS/GCP)  ████░░░░░░  40%             ║
+║  ▶  Docker & DevOps             ███░░░░░░░  30%             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🔥_Next-Advanced_LLM_Integration-a78bfa?style=flat-square"/>
+<img src="https://img.shields.io/badge/📖_Studying-System_Design_Patterns-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/⚙️_Exploring-Docker_%26_Kubernetes-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏗️_Building-REST_APIs_at_Scale-10b981?style=flat-square"/>
+</p>
+
+---
+
+<!-- ════════════════════════════════════════ SNAKE ANIMATION ═══ -->
+
+## 🐍 &nbsp;My Contributions, Visualized
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
+  <img alt="Snake animation of contribution graph"
+    src="https://raw.githubusercontent.com/amansinha11-dev/amansinha11-dev/output/github-snake.svg" />
+</picture>
+</div>
+
+<details>
+<summary>⚙️ <b>Activate Snake Animation — Setup Instructions</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════ CONNECT ═══ -->
+
+## 🤝 &nbsp;Let's Build Together
+
+<div align="center">
+
+<a href="https://amansinhaportfoilo.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-a78bfa?style=for-the-badge&labelColor=1a1b27"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aman-sinha-2412res/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<a href="mailto:sinhaaman479@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<a href="https://github.com/amansinha11-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💌_Response_Time-Within_24_Hours-10b981?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🤝_Available_For-Freelance%20%7C%20Internship%20%7C%20Collabs-f59e0b?style=for-the-badge&labelColor=1a1b27"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ FOOTER ═══ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%"/>
+
+<br/><br/>
+
+<sub>
+  ⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <br/>
+  Made with 💜 by <a href="https://github.com/amansinha11-dev"><b>Aman Sinha</b></a> | KIIT-DU × IIT Patna | 2025
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
