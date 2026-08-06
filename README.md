@@ -92,7 +92,7 @@ I'm **Aman Sinha** — a Final-year **B.Tech (IT)** student at **KIIT University
   </td>
   <td align="center" width="33%">
     <img src="https://img.shields.io/badge/📊_B.S_CSDA_IIT_Patna-f59e0b?style=for-the-badge&labelColor=1a1b27"/><br/>
-    <sub>Advanced Data Science & AI</sub>
+    <sub>Computer Science & Data Analytics</sub>
   </td>
 </tr>
 </table>
