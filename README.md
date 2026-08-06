@@ -209,6 +209,8 @@ I'm **Aman Sinha** — a Final-year **B.Tech (IT)** student at **KIIT University
 
 </div>
 
+<sub>💡 <b>Fix note:</b> pin cards need an exact, case-sensitive match to a <b>public</b> repo name. If any card above ever renders "Repository not found," open that repo on GitHub and copy its name exactly — hyphens and case included — into the `repo=` parameter.</sub>
+
 <br/>
 
 ### 🔬 Deep-Dive: Project Highlights
@@ -278,8 +280,10 @@ A campus safety & management platform built for **Smart India Hackathon 2025**, 
 </div>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha11-dev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=c9d1d9&background=1a1b27" />
+  <img width="68%" src="https://streak-stats.demolab.com/?user=amansinha11-dev&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=06b6d4&sideLabels=06b6d4&dates=c9d1d9&background=1a1b27" />
 </div>
+
+<sub>💡 <b>Fix note:</b> the streak card used to point at <code>github-readme-streak-stats.herokuapp.com</code>, dead since Heroku killed free dynos in 2022 — now on the maintained <code>streak-stats.demolab.com</code>. Separately, all three cards above call the shared public <code>github-readme-stats.vercel.app</code> demo, which hundreds of thousands of profiles hit and which occasionally rate-limits or times out. A broken-image icon here is usually transient (refresh in a minute); for a card that never goes down, deploy your own free copy from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a> and swap in your own domain.</sub>
 
 <br/>
 
@@ -368,10 +372,18 @@ A campus safety & management platform built for **Smart India Hackathon 2025**, 
 </div>
 
 <details>
-<summary>⚙️ <b>Activate Snake Animation — Setup Instructions</b></summary>
+<summary>⚙️ <b>Why this wasn't showing — root cause & fix</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo with:
+**The bug:** the job below was missing a `permissions: contents: write` block. GitHub Actions' default `GITHUB_TOKEN` is read-only, so the second step — pushing the generated SVGs to an `output` branch — failed with a `403` on every run. That branch and its files never got created, which is why the images above had nothing to load. This is the single most common cause of a blank snake animation.
+
+**What changed below:** added `permissions: contents: write`, and swapped `Platane/snk@v3` for the lighter `Platane/snk/svg-only@v3` (you only need SVG output, so this skips the headless-browser GIF render and finishes faster).
+
+**To activate it:**
+1. Create `.github/workflows/snake.yml` in this repo with the YAML below and commit it to your default branch.
+2. Go to **Actions → Generate Snake Animation → Run workflow** to trigger it immediately (don't wait for the cron).
+3. Confirm a new `output` branch appears containing `github-snake.svg` and `github-snake-dark.svg`.
+4. If it still fails with a 403, check **Settings → Actions → General → Workflow permissions** is set to "Read and write permissions" — the block below should make this unnecessary, but some accounts enforce the repo setting regardless.
 
 ```yaml
 name: Generate Snake Animation
@@ -383,9 +395,13 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -394,7 +410,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
