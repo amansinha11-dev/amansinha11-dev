@@ -36,7 +36,7 @@
 
 > **Engineering the intersection of code, intelligence, and impact.**
 
-I'm **Aman Sinha** — a Final-year **B.Tech (IT)** student at **KIIT University** simultaneously pursuing a **B.Sc in Data Science & AI** from **IIT Patna**. I build things that matter: production-ready full-stack apps, intelligent ML systems, and everything in between.
+I'm **Aman Sinha** — a Final-year **B.Tech (IT)** student at **KIIT University** simultaneously pursuing a **B.Sc in Computer Science & Data Analytics** from **IIT Patna**. I build things that matter: production-ready full-stack apps, intelligent ML systems, and everything in between.
 
 - 🔭 Currently crafting **AI-powered web applications**
 - 🧠 Mastering the **MERN stack** + **Computer Vision**
