@@ -463,7 +463,7 @@ jobs:
 <br/><br/>
 
 <sub>
-  ⚡ <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  ⚡ <i>"First, solve the problem. Then, write the code."</i> — Aman Sinha
   <br/>
   Made with 💜 by <a href="https://github.com/amansinha11-dev"><b>Aman Sinha</b></a> | KIIT-DU × IIT Patna | 2025
 </sub>
